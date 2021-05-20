@@ -1,13 +1,13 @@
 <style type="text/css">
 .leftImage {
     float: left;
-    margin-right: 30px;
+    margin-right: 10px;
     width: 315px;
     height: 250px;
 }
 .rightImage {
     float: right;
-    margin-left: 30px;
+    margin-left: 10px;
     width: 315px;
     height: 250px;
 }
@@ -19,10 +19,7 @@
 
 Occasionally when I have the time I like to participate in online game jams, not only for fun but to also learn a thing or two about how I can improve my development workflow. So far I've only participated in game jams on my own.
 
-<br/>
-
 ## Cat Herder (2018)
-#
 
 <img class="leftImage" src="images/cat-herder.png"/>
 
@@ -36,10 +33,7 @@ The cats, who are modeled after my own Felix, use a simple AI to move around and
 
 I ended up dumping a lot of time into the sprites which I wanted to make myself because I enjoy pixel art (even if I'm not great at it). Because of this I had to cut some game elements that would have made it more interesting. These included a toy that could be thrown to attract cats and cardboard boxes that could be stacked to form a wall or opened to encourage cats to sit in them. While I had fun with the art, I wish I had prioritized the gameplay so I would've finished with something a little more fun to play.
 
-<br/>
-
 ## Quick & Easy (2019)
-#
 
 <img class="rightImage" src="images/quick-and-easy.png"/>
 
@@ -58,10 +52,7 @@ Secondly, some of the level assets were misleading, particularly the stove and p
 
 Lastly, I did not leave enough time to test the dish grading algorithm and as a result it seems nearly impossible to get a grade above a C, which is dissapointing when you feel like you had done your best.
 
-<br/>
-
 ## Tung (2019)
-#
 
 <img class="leftImage" src="images/tung.png"/>
 
