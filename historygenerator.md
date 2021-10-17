@@ -4,7 +4,6 @@
 
 <img class="leftImage" src="images/history_generator/app.png"/>
 
-#
 ## Concept
 The idea for this project is to create an application that the user can interact with to procedurarlly generate an entire world history. This would include generating a world map, simulating civilizations on a large scale, and creating lore via battles, relationships, artifacts, enemies, natural phenomena, etc.
 
@@ -16,7 +15,6 @@ With the world and civilizations generated the simulation can then take place. B
 
 The hope is that after doing all of this we should be able to log the progression of history based on the events that occur over time and spit out an interesting story of a unique world.
 
-#
 ## Design
 I decided to build this in .NET Core because it would be easier for me to design in and I wanted to learn how to program UI in a Windows-based application.
 
@@ -34,13 +32,16 @@ Below is the attribute class that I use to designate the process chain and depen
 ```C#
 public class ProcessAttribute : Attribute
 {
-	public string ProcessChain { get; set; }
-	public Type[] Dependencies { get; set; }
+    public string ProcessChain { get; set; }
+    public Type[] Dependencies { get; set; }
 }
 ```
 
 ```C#
-[Process(ProcessChain = "Generate", Dependencies = new[] { typeof(ClimateMapGenerator) })]
+[Process(
+    ProcessChain = "Generate", 
+    Dependencies = new[] { typeof(ClimateMapGenerator) }
+)]
 public class CivilizationGenerator : Process
 {
     ...
