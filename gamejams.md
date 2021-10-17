@@ -21,7 +21,7 @@ Occasionally when I have the time I like to participate in online game jams, not
 
 ## Cat Herder (2018)
 
-<img class="leftImage" src="images/cat-herder.png"/>
+<img class="leftImage" src="images/game_jams/cat-herder.png"/>
 
 __Cat Herder__ was made in 48 hours for _Ludum Dare #40_. The theme for this jam was "The more you have the worse it is". You can play it [here](https://nickl.itch.io/cat-herder)!
 
@@ -35,7 +35,7 @@ I ended up dumping a lot of time into the sprites which I wanted to make myself 
 
 ## Quick & Easy (2019)
 
-<img class="rightImage" src="images/quick-and-easy.png"/>
+<img class="rightImage" src="images/game_jams/quick-and-easy.png"/>
 
 __Quick & Easy__ was made over the span of 1 week for _Weekly Game Jam #100_. The theme for this jam was "100". You can play it [here](https://nickl.itch.io/quick-and-easy)!
 
@@ -54,7 +54,7 @@ Lastly, I did not leave enough time to test the dish grading algorithm and as a 
 
 ## Tung (2019)
 
-<img class="leftImage" src="images/tung.png"/>
+<img class="leftImage" src="images/game_jams/tung.png"/>
 
 __Tung__ was made over the span of 1 week for _Weekly Game Jam #122_. The theme for this jam was "One action". You can play it [here](https://nickl.itch.io/tung)!
 
