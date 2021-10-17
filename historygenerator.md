@@ -20,11 +20,7 @@ I decided to build this in .NET Core because it would be easier for me to design
 
 The app at its core is loosely based on the Chain-of-responsibility programming pattern. Basically, via the UI we can send a command to generate or render the world to a chain of processes that will perform some action, one-by-one in order, and when finished we can use the resulting world data to display a result.
 
-```
-[Generate Command]----->------------->-------------------->---------------------> - - -
-                           |                   |                      |
-                    [Add Heightmap]      [Add Biomes]        [Add Civilizations]
-```
+<img class="leftImage" src="images/history_generator/flowchart.png" style="margin-top:15px"/>
 
 This pattern enables us to easily add and remove processes with little to no coupling with other processes.
 
