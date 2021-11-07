@@ -11,3 +11,7 @@
 	clear: both;
 	display: table;
 }
+
+a {
+	transition: all 200ms ease;
+}
