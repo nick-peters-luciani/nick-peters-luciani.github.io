@@ -29,11 +29,11 @@
         {% endif %}
 
         {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+        <p class="view"><i class="fab fa-github-square"></i><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
 
         {% if site.linkedin_url %}
-        <p class="view"><a href="{{ site.linkedin_url }}">View My LinkedIn Profile</a></p>
+        <p class="view"><i class="fab fa-linkedin"></i><a href="{{ site.linkedin_url }}">View My LinkedIn Profile</a></p>
         {% endif %}
 
         {% if site.show_downloads %}
@@ -57,5 +57,6 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script src="https://kit.fontawesome.com/4d77a966f2.js" crossorigin="anonymous"></script>
   </body>
 </html>
