@@ -16,7 +16,7 @@ a {
 	transition: all 200ms ease;
 }
 
-fab {
+.fab {
 	font-size: 18px;
 	margin-right: 10px;
 }
