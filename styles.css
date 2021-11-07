@@ -15,3 +15,8 @@
 a {
 	transition: all 200ms ease;
 }
+
+fab {
+	font-size: 18px;
+	margin-right: 10px;
+}
