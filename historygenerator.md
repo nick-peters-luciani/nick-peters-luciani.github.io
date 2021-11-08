@@ -1,5 +1,3 @@
-<link rel="stylesheet" type="text/css" media="all" href="styles.css" />
-
 # History Generator (In Progress)
 
 <img class="leftImage" src="images/history_generator/app.png"/>

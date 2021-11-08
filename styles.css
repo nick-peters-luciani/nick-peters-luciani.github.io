@@ -12,6 +12,20 @@
 	display: table;
 }
 
+.leftImage {
+	float: left;
+	margin-right: 10px;
+	width: 315px;
+	height: 250px;
+}
+
+.rightImage {
+	float: right;
+	margin-left: 10px;
+	width: 315px;
+	height: 250px;
+}
+
 a {
 	transition: all 200ms ease;
 }
@@ -22,15 +36,15 @@ a {
 }
 
 ul.nav {
-    list-style-type: none;
-    margin-left: -15px;
+	list-style-type: none;
+	margin-left: -15px;
 	margin-top: 15px;
 	border-top: 1px solid #ADADAD;
 	padding-top: 15px;
 }
 
 ul.nav > li > ul {
-    list-style-type: none;
-    margin-left: -15px;
+	list-style-type: none;
+	margin-left: -15px;
 	margin-bottom: 2px;
 }
