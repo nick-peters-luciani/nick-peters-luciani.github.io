@@ -1,6 +1,6 @@
 # History Generator (In Progress)
 
-<img class="leftImage" src="images/history_generator/app.png"/>
+<img src="images/history_generator/app.png"/>
 
 ## Concept
 The idea for this project is to create an application that the user can interact with to procedurarlly generate an entire world history. This would include generating a world map, simulating civilizations on a large scale, and creating lore via battles, relationships, artifacts, enemies, natural phenomena, etc.
@@ -18,7 +18,7 @@ I decided to build this in .NET Core because it would be easier for me to design
 
 The app at its core is loosely based on the Chain-of-responsibility programming pattern. Basically, via the UI we can send a command to generate or render the world to a chain of processes that will perform some action, one-by-one in order, and when finished we can use the resulting world data to display a result.
 
-<img class="leftImage" src="images/history_generator/flowchart.png" style="margin-top:15px"/>
+<img src="images/history_generator/flowchart.png" style="margin-top:15px"/>
 
 This pattern enables us to easily add and remove processes with little to no coupling with other processes.
 
