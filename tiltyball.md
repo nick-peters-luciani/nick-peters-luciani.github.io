@@ -28,3 +28,14 @@ Below you can see an example of some generated rows (left) and an overlay (right
 The game was built with the intention of having different skins the player could purchase and swap out to add a bit of progression and customization. Skins are purchased with collected coins and enabled via the store page. For each tile skin I make prefab variants of every tile and tile chunk and add them to a custom ScriptableObject that keeps track of them in a list. A "tile factory" object then takes this in and uses it when initializing new pieces for the level generator. The ball can also have its look swapped out as well, although this is much simpler. 
 
 Most level skin materials use a planar shader to hide the seams in between tiles and make the level appear as if it's carved from one smooth piece. A custom triplanar shader was created by modifying an existing one to support normal maps and other standard shader properties.
+
+Below you can see examples of 2 different level skins and 2 different ball materials.
+
+<div class="row">
+  <div class="column">
+    <img src="images/tilty_ball/level-stone.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="images/tilty_ball/level-snow.png" style="width:100%">
+  </div>
+</div>
