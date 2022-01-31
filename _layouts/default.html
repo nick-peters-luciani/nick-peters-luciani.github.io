@@ -28,14 +28,15 @@
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
 
-        {% if site.github.is_user_page %}
-        <p class="view"><i class="fab fa-github-square"></i><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
+        <p class="view">
+          {% if site.github.is_user_page %}
+          <i class="fab fa-github-square"></i><a href="{{ site.github.owner_url }}">View My GitHub Profile</a>
+          {% endif %}
+          {% if site.linkedin_url %}
+          <i class="fab fa-linkedin"></i><a href="{{ site.linkedin_url }}">View My LinkedIn Profile</a>
+          {% endif %}
+        </p>
 
-        {% if site.linkedin_url %}
-        <p class="view"><i class="fab fa-linkedin"></i><a href="{{ site.linkedin_url }}">View My LinkedIn Profile</a></p>
-        {% endif %}
-        
         <ul class="nav">
           <li><a href="/index.html">About Me</a></li>
           <li>Projects
