@@ -11,8 +11,22 @@
     <script>
       var unityInstance = UnityLoader.instantiate("unityContainer", "Build/WebGL.json", {onProgress: UnityProgress});
     </script>
+    <style>
+      a{
+        font: 18px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-weight: 400;
+        color: #267CB9;
+        text-decoration: none;
+        transition: all 200ms ease;
+      }
+      a:hover, a:focus {
+        color: #069;
+        font-weight: bold;
+      }
+    </style>
   </head>
   <body>
+    <p><a href="/index.html">← Home</a></p>
     <div class="webgl-content">
       <div id="unityContainer" style="width: 540px; height: 960px"></div>
       <div class="footer">
