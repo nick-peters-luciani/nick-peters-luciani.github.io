@@ -4,9 +4,11 @@ Occasionally when I have the time I like to participate in online game jams, not
 
 ## Cat Herder (2018)
 
+### **[Play the Game Here](https://nickl.itch.io/cat-herder)**
+
 <img class="leftImage" src="images/game_jams/cat-herder.png"/>
 
-__Cat Herder__ was made in 48 hours for _Ludum Dare #40_. The theme for this jam was "The more you have the worse it is". You can play it [here](https://nickl.itch.io/cat-herder)!
+__Cat Herder__ was made in 48 hours for _Ludum Dare #40_. The theme for this jam was "The more you have the worse it is". 
 
 In this game you play as a pet shop owner who's trying to corral escaped kittens before the shop opens. The way it plays into the theme is each new day more cats are added thereby increasing the difficulty.
 
@@ -18,9 +20,11 @@ I ended up dumping a lot of time into the sprites which I wanted to make myself 
 
 ## Quick & Easy (2019)
 
+### **[Play the Game Here](https://nickl.itch.io/quick-and-easy)**
+
 <img class="rightImage" src="images/game_jams/quick-and-easy.png"/>
 
-__Quick & Easy__ was made over the span of 1 week for _Weekly Game Jam #100_. The theme for this jam was "100". You can play it [here](https://nickl.itch.io/quick-and-easy)!
+__Quick & Easy__ was made over the span of 1 week for _Weekly Game Jam #100_. The theme for this jam was "100".
 
 It took a while for me to think of an idea for this jam, but I settled on a game where you had to prepare and cook a meal within 100 seconds. Using the admittedly wonky controls, you must pickup ingredients, chop, cook, and neatly plate it all before the timer runs out. At the end your dish is rated on several categories and is given a grade for quality.
 
@@ -37,9 +41,11 @@ Lastly, I did not leave enough time to test the dish grading algorithm and as a 
 
 ## Tung (2019)
 
+### **[Play the Game Here](https://nickl.itch.io/tung)**
+
 <img class="leftImage" src="images/game_jams/tung.png"/>
 
-__Tung__ was made over the span of 1 week for _Weekly Game Jam #122_. The theme for this jam was "One action". You can play it [here](https://nickl.itch.io/tung)!
+__Tung__ was made over the span of 1 week for _Weekly Game Jam #122_. The theme for this jam was "One action".
 
 This game is a puzzle platformer where your character has no arms or legs and can only move  by grappling special blocks using its stretchy tongue, which is the single action the player can do. I had actually thought of this game idea before and this seemed like a good opportunity to make a prototype for it since the theme worked.
 
