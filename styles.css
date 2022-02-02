@@ -30,9 +30,13 @@ a {
 	transition: all 200ms ease;
 }
 
-.fab {
+.fab, .fas {
 	font-size: 18px;
 	margin-right: 10px;
+}
+
+i.fas.fa-file-alt {
+    padding-left: 2.25px;
 }
 
 ul.nav {
