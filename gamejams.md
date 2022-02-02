@@ -4,7 +4,7 @@ Occasionally when I have the time I like to participate in online game jams, not
 
 ## Cat Herder (2018)
 
-### **[Play the Game Here](https://nickl.itch.io/cat-herder)**
+### **<a href="https://nickl.itch.io/cat-herder" target="_blank">Play the Game Here</a>**
 
 <img class="leftImage" src="images/game_jams/cat-herder.png"/>
 
@@ -20,7 +20,7 @@ I ended up dumping a lot of time into the sprites which I wanted to make myself 
 
 ## Quick & Easy (2019)
 
-### **[Play the Game Here](https://nickl.itch.io/quick-and-easy)**
+### **<a href="https://nickl.itch.io/quick-and-easy" target="_blank">Play the Game Here</a>**
 
 <img class="rightImage" src="images/game_jams/quick-and-easy.png"/>
 
@@ -41,7 +41,7 @@ Lastly, I did not leave enough time to test the dish grading algorithm and as a 
 
 ## Tung (2019)
 
-### **[Play the Game Here](https://nickl.itch.io/tung)**
+### **<a href="https://nickl.itch.io/tung" target="_blank">Play the Game Here</a>**
 
 <img class="leftImage" src="images/game_jams/tung.png"/>
 
