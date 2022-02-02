@@ -31,10 +31,14 @@
         <p class="view">
           {% if site.github.is_user_page %}
           <i class="fab fa-github-square"></i><a href="{{ site.github.owner_url }}">View My GitHub Profile</a>
-          {% endif %}
           <br/>
+          {% endif %}
           {% if site.linkedin_url %}
           <i class="fab fa-linkedin"></i><a href="{{ site.linkedin_url }}">View My LinkedIn Profile</a>
+          <br/>
+          {% endif %}
+          {% if site.resume_url %}
+          <i class="fa-regular fa-file-lines"></i><a href="{{ site.resume_url }}">Download My Resume</a>
           {% endif %}
         </p>
 
