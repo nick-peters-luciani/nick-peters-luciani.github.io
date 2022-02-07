@@ -1,4 +1,4 @@
 # About Me
 Software developer with more than 5 years of experience, primarily in mobile app development and data processing, looking for the opportunity to work on an exciting project. Proficient with a variety of programming languages and platforms including C#, C++, Python, .NET, and AWS. Passionate about creating maintainable, efficient codebases and providing the best user experience.
 
-Game development hobbyist primarily working with the Unity game engine since 2015. Familiar with multiplayer programming using Mirror, other game engines such as Unreal Engine and Godot, and various game modding tools. Passionate about developing fun, innovative gameplay and utilizing procedural generation when possible to create unique experiences and promote replayability.
+Game developer primarily working with the Unity game engine since 2015. Familiar with multiplayer programming using Mirror, other game engines such as Unreal Engine and Godot, and various game modding tools. Passionate about developing fun, innovative gameplay and utilizing procedural generation when possible to create unique experiences and promote replayability.
