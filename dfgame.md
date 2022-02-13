@@ -7,26 +7,24 @@ I wanted to make a 3D version of Dwarf Fortress where I could also explore some 
 
 This video shows off the, technically infinite, world generation. Chunks load and unload as they come into and leave the view.
 
-<video controls="true" allowfullscreen="true" width="100%" height="auto">
-    <source src="images/df_game/world.mp4" type="video/mp4">
-</video>
-
-<br/>
+<p>
+	<video controls="true" allowfullscreen="true" width="100%" height="auto">
+		<source src="images/df_game/world.mp4" type="video/mp4">
+	</video>
+</p>
 
 Here's a picture of a location with generated foliage.
 
 <img src="images/df_game/clip1.png"/>
 
-<br/>
-
 Below you can see how I've added and removed blocks of different types. The world can be edited in realtime and even saves so when you leave and come back your changes remain.
 
 <img src="images/df_game/clip2.png"/>
 
-<br/>
-
 Lastly, here is a video showing a pahtfinding test of a character. Using A* path finding, it looks for the shortest path trying to avoid going up or down slopes.
 
-<video controls="true" allowfullscreen="true" width="100%" height="auto">
-    <source src="images/df_game/pathfinding.webm" type="video/webm">
-</video>
+<p>
+	<video controls="true" allowfullscreen="true" width="100%" height="auto">
+		<source src="images/df_game/pathfinding.webm" type="video/webm">
+	</video>
+</p>

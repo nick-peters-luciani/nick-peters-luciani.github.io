@@ -4,6 +4,10 @@
 
 ### **[Play the Demo Here](../demos/tilty-ball)**
 
+## Concept
+
+
+
 ## Level Generation
 
 The level generation method uses the concept of [2-edge Wang Tiles](http://www.cr31.co.uk/stagecast/wang/2edge.html). Square tiles fill a grid where each edge of a tile must match up with the edges of the tiles neighboring it. A reduced set of the tiles is used in this application so that the path will never lead upwards. To begin generation we need to seed the level with a random row, but in this case we can use a prefabricated tile group that includes the ball's spawn point and a path leading down. For every row after, we add random edge matching tiles starting where the previous row's path ended and continue until the row is filled. Lastly we loop through the tiles in the row and make sure at least one is leading downwards so we can continue the path on the next iteration.
