@@ -1,4 +1,4 @@
-# Colony Management Project (In Progress)
+# Colony Management Project (In&nbsp;Progress)
 
 <img src="images/cm_project/clip1.png"/>
 
