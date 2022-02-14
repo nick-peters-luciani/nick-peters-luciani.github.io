@@ -1,5 +1,7 @@
 # "Dwarf Fortress" Project
 
+<img src="images/df_game/clip1.png"/>
+
 ## Concept
 I wanted to make a 3D colony management game, inspired by "Dwarf Fortress", where I could explore some of my own ideas and mechanics for the genre. Some of those ideas include fluid dynamics, procedural quests, and even multiplayer - however this is a bit ambitious. What I've managed so far is a procedurally generated world that's editable, saves/loads, and even supports actions such as pathfinding. I also took the opportunity to learn more about DOTS in Unity which greatly improved the performance of the world loading.
 
@@ -24,10 +26,6 @@ This video shows off the, technically infinite, world generation. Chunks load an
 		<source src="images/df_game/world.mp4" type="video/mp4">
 	</video>
 </p>
-
-A location with some generated foliage including trees and rocks.
-
-<img src="images/df_game/clip1.png"/>
 
 Below you can see how I've added and removed blocks of different types. The world can be edited in realtime and even saves so when you leave and come back your changes remain.
 
