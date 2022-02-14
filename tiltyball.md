@@ -1,12 +1,12 @@
-# Tilty Ball
+# Tilty Ball (In Progress)
 
-"Tilty Ball" is an endless scrolling mobile game where you guide a rolling ball through a procedurally generated level collecting powerups that help you beat your high score and coins which unlock new looks.
+Tilty Ball is an endless scrolling mobile game where you guide a rolling ball through a procedurally generated level collecting coins which unlock new looks and powerups that may help you beat your high score.
 
 ### **[Play the Demo Here](../demos/tilty-ball)**
 
 ## Concept
 
-
+Inspired by pinball and marble machines, I wanted to create an easy to play mobile game where the player tilts their device to move a ball through a series of paths and mechanisms ultimately seeing how far they can get. As the game goes on the level scrolling speeds up and it becomes harder to keep the ball below the top of the screen where it will cause a game over. The player will find coins and powerups along the way and may guide their ball to it and pick it up. Coins are used to unlock skins for both the level and the ball whereas powerups will grant special effects that can help the player stay in the game.
 
 ## Level Generation
 
