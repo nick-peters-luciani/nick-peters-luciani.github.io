@@ -1,6 +1,6 @@
 # Game Jams
 
-Occasionally when I have the time I like to participate in online game jams, not only for fun but to also learn a thing or two about how I can improve my development workflow. So far I've only participated in game jams on my own.
+Occasionally when I have the time I like to participate in online game jams, not only for fun but to also learn a thing or two about how I can improve my development workflow. So far I've only participated in game jams on my own. All the games on this page were made with Unity.
 
 ## Cat Herder (2018)
 

@@ -3,7 +3,7 @@
 <img src="images/cm_project/clip1.png"/>
 
 ## Concept
-I wanted to make a 3D colony management game, inspired by Dwarf Fortress, where I could explore some of my own ideas and mechanics for the genre. Some of those ideas include fluid dynamics, procedural quests, and even multiplayer - however this is a bit ambitious. What I've managed so far is a procedurally generated world that's editable, saves/loads, and even supports actions such as pathfinding. I also took the opportunity to learn more about DOTS in Unity which greatly improved the performance of the world loading.
+I wanted to make a 3D colony management game, inspired by Dwarf Fortress, where I could explore some of my own ideas and mechanics for the genre. Some of those ideas include fluid dynamics, procedural quests, and even multiplayer - however this is a bit ambitious. What I've managed so far, using Unity, is a procedurally generated world that's editable, saves/loads, and even supports actions such as pathfinding. I also took the opportunity to learn more about DOTS in Unity which greatly improved the performance of the world loading.
 
 ## World Generation
 
