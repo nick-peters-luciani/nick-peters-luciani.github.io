@@ -2,6 +2,8 @@
 
 <img src="images/history_generator/app.png"/>
 
+### **<a href="https://github.com/nick-peters-luciani/HistoryGenerator/tree/master" target="_blank">View code on GitHub</a>**
+
 ## Concept
 The idea for this project is to create an application that the user can interact with to procedurarlly generate an entire world history. This would include generating a world map, simulating civilizations on a large scale, and creating lore via battles, relationships, artifacts, enemies, natural phenomena, etc.
 
